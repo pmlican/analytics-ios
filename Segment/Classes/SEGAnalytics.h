@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @class SEGAnalyticsConfiguration;
 
-NS_SWIFT_NAME(Analytics)
+NS_SWIFT_NAME(SEGAnalytics)
 @interface SEGAnalytics : NSObject
 
 /**
